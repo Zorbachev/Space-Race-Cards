@@ -1,0 +1,40 @@
+Super Zoo (Preconstructed Deck) Primer
+
+
+Summary:
+   
+   Super Zoo intends to focus on Feral Recruits and Positive Reputation for a
+   low-setup high-velocity gameplan. Players piloting this deck should broadly
+   strive to gain Proximity at every opportunity, as the list lacks access to 
+   large bursts of Proximity gain. 
+
+
+
+Modes:
+
+1. High Turnover
+   
+   This mode intends to leverage synergy between Renak and Poliflumeria to
+   rapidly gain large amounts of Reputation to then expend on Actions like
+   Hitchhike in Style or Book a Freighter. Once you have 7-10 Reputation,
+   Poliflumeria should only be used for Certainty or Morale, depending on
+   your needs in the circumstances. 
+	Module Draft: Archeolab, Flashy Livery, Solid-State Oxyboosters
+	Recruit Draft: Galfonzo, Poliflumeria, Renak
+
+2. Beasts of Burden
+
+   This mode focuses on maintaining uptime on Ouowouuaoa using Teev Rwin and
+   Xarcinicrax's Certainty gain. Adding another Recruit quickly is a priority,
+   as the mode is very vulernable to Teev being removed, causing a Backslide. 
+	Module Draft: Habitat Simulator, Snack Nook, Solid-State Oxyboosters
+	Recruit Draft: Ouowouuaoa, Teev Rwin, Xarcinicrax
+
+
+Tricks:
+
+1. Zoo Escape
+   
+   While Brengle and Filbup can theoretically provide value to your Ship, they
+   exist primarily to be launched at your opponents. Both can rapidly ravage an
+   opponent's board state, and are powerful disruption pieces. 

@@ -1,0 +1,38 @@
+Warp & Peace (Preconstructed Deck) Primer
+
+
+Summary:
+   
+   Warp & Peace intends to focus on a tempo gameplan where turns alternate
+   between utility Actions like Read the Manual or Hire a Hitman and "Warp"
+   effects that lock you out of Proximity gain for 1 Round. This has inherent
+   synergy with Research Modules, which will trigger at the start of a Turn, 
+   preventing their next trigger, allowing you to gain Proximity that Turn
+   without consequence. 
+
+
+Modes:
+
+1. Hop, Skip and, Jump
+   
+   This mode focuses on leaning into the more straightforward gameplan of Turns
+   which alternate between Certainty/Proximity gain and more generic utility,
+   simply making consistent progress until the finish. 
+	Module Draft: Chronofractive Centrifuge, Cosmolabe, Hyperdrive Core
+	Recruit Draft: CyberNav, Gr. Halprence, Jeepers
+
+2. Keep the Peace
+
+   Keep the Peace is a more interactive set-up, intending to leverage value
+   from Kallipher and Oculon to disrupt opponent's gameplans while using Weapon
+   granting from CPL.Punishment to discourage your opponent's from interfering
+   in yours.  
+	Module Draft: Archeolab, Hydroponic Biergarten, Solid-State Oxyboosters
+	Recruit Draft: CPL.Punishment, Kallipher, Oculon
+
+
+Tricks:
+
+1. Dataprobe
+
+   Consider using Dataprobe during the Regroup Step to maximize value. 

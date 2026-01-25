@@ -1,0 +1,38 @@
+BitFlip (Preconstructed Deck) Primer
+
+
+Summary:
+   
+   BitFlip is a tempo/control list with the goal of slowing down opponents
+   while building resources to win in one or two bursts of Proximity gain.
+   In addition, the focus on Synthetic Recruits improves resilience and
+   gameplan cohesion. 
+
+
+
+Modes:
+
+1. Overclock
+   
+   Overclock wants to build a mass of Certainty quickly by mixing Replifriend,
+   Schedule a Brainstorm, and Network the Droids. Then, use Bustling Systems and
+   Gear Up to build/rebuild the Ship before feeding Modules to Rasch. 
+	Module Draft: Cosmolabe, Escape Pod, Positron Shielding
+	Recruit Draft: Chronax, Rasch, Replifriend
+
+2. Lockdown
+
+   Instead of planning to have Rasch from the start, this mode intends to focus
+   on shutting down opponents while you build your resources using Kerana in a 
+   Runabout just sitting in your Starting System. 
+	Module Draft: Dining Hall, Peer-Rating Terminal, Survey Vessel. 
+	Recruit Draft: GEN.Knowledge, Kerana, Mrs. Manners
+
+
+Tricks:
+
+1. Chronax and the Tricksters
+   
+   Blenq, Hutvut, and Shambling Mass are all Recruits you would rather have on
+   top of your Gig Pile than in your Crew, as Chronax revealing them triggers
+   their abilities without them having to join your Crew. 
