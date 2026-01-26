@@ -17,7 +17,7 @@ Modes:
 1. Overclock
    
    Overclock wants to build a critical mass of Certainty quickly by mixing "Replifriend AOE-17",
-   "Schedule a Brainstorm", and "Network the Droids". Then, use Bustling Systems and Gear Up to
+   "Schedule a Brainstorm", and "Network the Droids". Then, use Bustling Systems and "Gear Up" to
    build/rebuild the Ship before feeding Modules to "Rasch, Archon of the Second". 
       Module Draft: Cosmolabe - Escape Pod - Positron Shielding
       Recruit Draft: Chronax, Voice of Potential - Rasch, Archon of the Second - Replifriend AOE-17
@@ -28,7 +28,7 @@ Modes:
    focus on shutting down opponents while you build your resources using "Kerana, Child of Heaven"
    in a "Survey Vessel" just sitting detatched in your Starting System. 
 	Module Draft: Dining Hall (Sponsored by Replicron) - Peer-Rating Terminal - Survey Vessel 
-	Recruit Draft: GEN.Knowledge.nav - Kerana, Child of Heaven = Mrs. Manners
+	Recruit Draft: GEN.Knowledge.nav - Kerana, Child of Heaven - Mrs. Manners
 
 
 Tricks:

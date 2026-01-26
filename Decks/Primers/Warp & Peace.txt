@@ -33,4 +33,4 @@ Tricks:
 
 1. Dataprobe
 
-   Consider using "Dataprobe" during the Regroup Step to maximize value. 
+   Consider using "Dataprobe" during an opponent's Regroup Step to maximize value. 
