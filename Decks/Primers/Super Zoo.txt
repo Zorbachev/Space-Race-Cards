@@ -14,27 +14,27 @@ Modes:
 
 1. High Turnover
    
-   This mode intends to leverage synergy between Renak and Poliflumeria to
-   rapidly gain large amounts of Reputation to then expend on Actions like
-   Hitchhike in Style or Book a Freighter. Once you have 7-10 Reputation,
-   Poliflumeria should only be used for Certainty or Morale, depending on
-   your needs in the circumstances. 
-	Module Draft: Archeolab, Flashy Livery, Solid-State Oxyboosters
-	Recruit Draft: Galfonzo, Poliflumeria, Renak
+   This mode intends to leverage synergy between "Renak, Microscopic Manager" and "Poliflumeria, 
+   Phoenix of Kazrit" to rapidly gain large amounts of Reputation to then use on Actions like
+   "Hitchhike in Style" or "Book a Freighter". Once you have 7-10 Reputation, "Poliflumeria, 
+   Phoenix of Kazrit" should only be used for Certainty or Morale, depending on your needs in the
+   circumstances. 
+      Module Draft: Archeolab - Flashy Livery - Solid-State Oxyboosters
+      Recruit Draft: Galfonzo, Prolific Companion - Poliflumeria, Phoenix of Kazrit - Renak, Microscopic Manager
 
 2. Beasts of Burden
 
-   This mode focuses on maintaining uptime on Ouowouuaoa using Teev Rwin and
-   Xarcinicrax's Certainty gain. Adding another Recruit quickly is a priority,
-   as the mode is very vulernable to Teev being removed, causing a Backslide. 
-	Module Draft: Habitat Simulator, Snack Nook, Solid-State Oxyboosters
-	Recruit Draft: Ouowouuaoa, Teev Rwin, Xarcinicrax
+   This mode focuses on maintaining uptime on "Ouowouuaoa, Harnesswhale" using "Teev Rwin, Friend
+   of Beasts" and "Xarcinicrax, Oblivous Oracle". Adding another Recruit quickly is a priority, as
+   the mode is very vulnerable to "Teev Rwin, Friend of Beasts" being removed, causing a Backslide. 
+      Module Draft: Habitat Simulator - Snack Nook - Solid-State Oxyboosters
+      Recruit Draft: Ouowouuaoa, Harnesswhale - Teev Rwin, Friend of Beasts - Xarcinicrax, Oblivious Oracle
 
 
 Tricks:
 
 1. Zoo Escape
    
-   While Brengle and Filbup can theoretically provide value to your Ship, they
-   exist primarily to be launched at your opponents. Both can rapidly ravage an
-   opponent's board state, and are powerful disruption pieces. 
+   While "Brengle, Impeccable Specimen" and "Filbup, Creature" can theoretically provide value to
+   your Ship, they exist primarily to be launched at your opponents via "Zoo Escape". Both can
+   rapidly ravage an opponent's board state, and are powerful disruption pieces. 
