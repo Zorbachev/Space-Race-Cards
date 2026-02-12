@@ -24,11 +24,11 @@ Modes:
 
 2. Beasts of Burden
 
-   This mode focuses on maintaining uptime on "Ouowouuaoa, Harnesswhale" using "Teev Rwin, Friend
+   This mode focuses on maintaining uptime on "Ouowouuaoa, Harnesswhale" using "Rwin Teev, Friend
    of Beasts" and "Xarcinicrax, Oblivous Oracle". Adding another Recruit quickly is a priority, as
-   the mode is very vulnerable to "Teev Rwin, Friend of Beasts" being removed, causing a Backslide. 
+   the mode is very vulnerable to "Rwin Teev, Friend of Beasts" being removed, causing a Backslide. 
       Module Draft: Habitat Simulator - Snack Nook - Solid-State Oxyboosters
-      Recruit Draft: Ouowouuaoa, Harnesswhale - Teev Rwin, Friend of Beasts - Xarcinicrax, Oblivious Oracle
+      Recruit Draft: Ouowouuaoa, Harnesswhale - Rwin Teev, Friend of Beasts - Xarcinicrax, Oblivious Oracle
 
 
 Tricks:

@@ -25,7 +25,7 @@ Modes:
    Keep the Peace is a more interactive set-up, intending to leverage value from "Kallipher V0, 
    Gunderkind" and "Oculon, Who Sees Most" to disrupt opponent's gameplans while using Weapon 
    granting from "CPL.Punishment.nav" to discourage your opponent's from interfering in yours.  
-      Module Draft: Archeolab - Hydroponic Biergarten - Solid-State Oxyboosters
+      Module Draft: Archeolab - Bioactive Solarium - Solid-State Oxyboosters
       Recruit Draft: CPL.Punishment.nav - Kallipher V0, Gunderkind - Oculon, Who Sees Most
 
 
